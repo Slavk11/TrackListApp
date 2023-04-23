@@ -90,7 +90,7 @@
                                     </subviews>
                                 </tableViewCellContentView>
                                 <connections>
-                                    <segue destination="BYZ-38-t0r" kind="show" id="hq2-zz-z2w"/>
+                                    <segue destination="BYZ-38-t0r" kind="show" identifier="showDetails" id="hq2-zz-z2w"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
