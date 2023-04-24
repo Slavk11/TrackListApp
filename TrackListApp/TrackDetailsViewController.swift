@@ -17,7 +17,5 @@ final class TrackDetailsViewController: UIViewController {
         super.viewDidLoad()
         artCoverImageView.image = UIImage(named: track.title)
         trackInfoTextField.text = track.description
-
-       
     }
 }
